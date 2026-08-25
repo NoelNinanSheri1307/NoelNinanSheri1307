@@ -200,9 +200,11 @@ Focused on software engineering, artificial intelligence, machine learning, algo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NoelNinanSheri1307&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNinanSheri1307&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="180"/>
+<img
+  src="https://raw.githubusercontent.com/NoelNinanSheri1307/NoelNinanSheri1307/main/github-metrics.svg"
+  alt="GitHub Statistics"
+  width="100%"
+/>
 
 </div>
 
@@ -219,11 +221,13 @@ Focused on software engineering, artificial intelligence, machine learning, algo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoelNinanSheri1307&hide_border=true&area=true" width="100%"/>
+<img
+  src="https://raw.githubusercontent.com/NoelNinanSheri1307/NoelNinanSheri1307/main/github-metrics.svg"
+  alt="GitHub Contribution Activity"
+  width="100%"
+/>
 
 </div>
-
----
 
 ## Connect With Me
 
