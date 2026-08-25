@@ -222,3 +222,41 @@ Focused on software engineering, artificial intelligence, machine learning, algo
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoelNinanSheri1307&hide_border=true&area=true" width="100%"/>
 
 </div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://noelninansheri.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/noel-ninan-sheri/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:noelninansheri@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## Highlights
+
+- Integrated M.Tech student in Software Engineering at VIT Vellore
+- Software Engineering Intern at ISRO VSSC
+- Experience building AI/ML, backend, full-stack, and developer tooling systems
+- Strong focus on Python, TypeScript, React, FastAPI, and system architecture
+- Interested in AI engineering, software engineering, cybersecurity, and intelligent systems
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile.
+
+[Portfolio](https://noelninansheri.vercel.app) · [LinkedIn](https://www.linkedin.com/in/noel-ninan-sheri/)
+
+</div>
