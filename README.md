@@ -215,19 +215,6 @@ Focused on software engineering, artificial intelligence, machine learning, algo
 <img src="https://streak-stats.demolab.com/?user=NoelNinanSheri1307&theme=github-dark&hide_border=true" height="180"/>
 
 </div>
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/NoelNinanSheri1307/NoelNinanSheri1307/main/github-metrics.svg"
-  alt="GitHub Contribution Activity"
-  width="100%"
-/>
-
-</div>
 
 ## Connect With Me
 
