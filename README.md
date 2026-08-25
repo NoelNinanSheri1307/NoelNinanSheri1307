@@ -2,7 +2,7 @@
 
 # Noel Ninan Sheri
 
-### Software Engineering Student | AI/ML | Full-Stack Development | Backend Engineering
+### Software Engineering Student 
 
 Building intelligent systems, scalable applications, and practical software that solves real-world problems.
 
@@ -200,17 +200,17 @@ Focused on software engineering, artificial intelligence, machine learning, algo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NoelNinanSheri1307&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NoelNinanSheri1307&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNinanSheri1307&layout=compact&langs_count=8&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNinanSheri1307&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="180"/>
 
 </div>
 
-### Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NoelNinanSheri1307&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=NoelNinanSheri1307&theme=github-dark&hide_border=true" height="180"/>
 
 </div>
 ---
