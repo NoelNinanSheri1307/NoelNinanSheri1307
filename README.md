@@ -208,6 +208,26 @@ Focused on software engineering, artificial intelligence, machine learning, algo
 
 </div>
 
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NoelNinanSheri1307&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNinanSheri1307&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NoelNinanSheri1307&theme=github-compact&hide_border=true"
+    width="95%"
+  />
+</p>
+
 ## Contribution Streak
 
 <div align="center">
