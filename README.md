@@ -12,7 +12,6 @@ Building intelligent systems, scalable applications, and practical software that
 
 </div>
 
----
 
 ## About Me
 
@@ -22,7 +21,6 @@ I enjoy taking ideas from concept to working systems — from AI/ML pipelines an
 
 Currently focused on strengthening my foundations in software engineering, distributed systems, AI/ML, system design, and building reliable production-grade applications.
 
----
 
 ## Tech Stack
 
@@ -75,7 +73,6 @@ Currently focused on strengthening my foundations in software engineering, distr
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 ## Featured Projects
 
@@ -170,7 +167,6 @@ An AI-driven biomedical system exploring knowledge graphs, semantic relationship
 </td>
 </tr>
 </table>
----
 
 ## Experience
 
@@ -185,7 +181,6 @@ Worked on internal AI/software engineering systems involving LLMs, knowledge ret
 Worked on production mobile application development and client-facing software systems.
 
 
----
 
 ## Education
 
@@ -194,7 +189,6 @@ Worked on production mobile application development and client-facing software s
 
 Focused on software engineering, artificial intelligence, machine learning, algorithms, systems, databases, and application development.
 
----
 
 ## GitHub Statistics
 
@@ -208,25 +202,6 @@ Focused on software engineering, artificial intelligence, machine learning, algo
 
 </div>
 
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NoelNinanSheri1307&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNinanSheri1307&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NoelNinanSheri1307&theme=github-compact&hide_border=true"
-    width="95%"
-  />
-</p>
 
 ## Contribution Streak
 
@@ -252,7 +227,6 @@ Focused on software engineering, artificial intelligence, machine learning, algo
 
 </div>
 
----
 
 ## Contribution Snake
 
@@ -281,7 +255,6 @@ Focused on software engineering, artificial intelligence, machine learning, algo
 - Strong focus on Python, TypeScript, React, FastAPI, and system architecture
 - Interested in AI engineering, software engineering, cybersecurity, and intelligent systems
 
----
 
 <div align="center">
 
